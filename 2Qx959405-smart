@@ -1,0 +1,10 @@
+LC,00,0,Motor Enabled
+LC,00,1,00,LHD
+LC,00,1,01,RHD
+LC,00,4,Rotation Direction: CW\CCW
+LC,01,1,Comfort Window Rise
+LC,01,7,Move Right Mirror Down during Reverse (only for R mirror)
+LC,02,4,Ambient Light (Pin 14)
+LC,02,5,Door Handle Light (Pin 15)
+LC,02,6,Outside Light In Mirror (Pin 16)
+LC,02,7,Warning Red Lamp (Pin 13)
